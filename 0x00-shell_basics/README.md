@@ -1,1 +1,1 @@
-Display directory contents, including hidden files
+ script to change working directory
